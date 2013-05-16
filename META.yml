@@ -23,6 +23,7 @@ no_index:
     - xt
 requires:
   Acme::MetaSyntactic: 1.000
+  Acme::MetaSyntactic::haddock: 0
   Moo: 1.002000
   PPI: 1.215
   Perl::Critic::Utils: 1.118
@@ -35,4 +36,4 @@ resources:
   homepage: https://metacpan.org/release/Acme-PPIx-MetaSyntactic
   license: http://dev.perl.org/licenses/
   repository: https://bitbucket.org/tobyink/p5-acme-ppix-metasyntactic
-version: 0.001
+version: 0.002
